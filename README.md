@@ -1,2 +1,44 @@
-# Based
-my first website
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cooking Dance</title>
+</head>
+<body bgcolor="#FFCCFF">
+<h1>The <i style="color:#FF00FF;">"Cooking Dance"</i></h1>
+<h1></h1>
+<a href="index.html">Homepage</a> | <a href="cooking%20dance.html">Cooking Dance</a> | <a href="Curses.html">Based God's Curse</a>
+<h1></h1>
+One of Lil B's many claims to fame is his unique style of dancing known as the cooking dance. The dance has a virtually
+unlimited amount of moves since there is no set way to do it. The one thing that all of the moves have in common is simple,
+cook a 5 star meal.
+<h1></h1>
+Lil B - I Cook <font color="red">Warning: Vulgar language</font>
+<h1></h1>
+<audio controls>
+    <source src="" type="audio/ogg">
+    <source src="Lil%20B%20-%20I%20Cook.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
+<h2><i style="color:#FF00FF;">The Moves</i> </h2>
+<h1></h1>
+Stirring the pot
+<h1></h1>
+<img src="stirring%20v2.gif">
+<h1></h1>
+Flippin pancakes
+<h1></h1>
+<img src="flippin.gif">
+<h1></h1>
+Feasting
+<h1></h1>
+<img src="feasting.gif">
+<h1></h1>
+And everything inbetween
+<h1></h1>
+<img src="hahahaha.gif">
+<h1></h1>
+
+
+</body>
+</html>
